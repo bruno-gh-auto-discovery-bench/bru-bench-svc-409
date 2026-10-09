@@ -1,0 +1,6 @@
+info:
+  name: list 12
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/fraud-search-2/12
